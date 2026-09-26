@@ -6,9 +6,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://linkedin.com/in/diya-lohana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Diya-Kumari978"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:diyakumari712@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -16,57 +16,39 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Systems Engineering student, hands-on with **full-stack web development**
-- 💻 I build real, working products — not just tutorials — from dashboards used by real teams to database-backed platforms
-- 🗄️ Strong grip on **DBMS concepts, SQL, and backend logic** — built a Lost & Found platform end-to-end with a PHP backend and a properly normalized SQL database
-- 🏭 Built an **Industrial Partner Dashboard** with live stats, request workflows, and connected forms
-- 🛡️ Built **PocketShield** — an AI-powered emergency safety app (see Projects below)
-- 📊 Also work across **data analytics** and **mobile app development**
+- 🎓 Computer Systems Engineering student
+- 💻 Real-world experience in full-stack web development
+- 🗄️ Strong hands-on work with DBMS, SQL, and backend logic
+- 📊 Also work across data analytics and mobile app development
 - 🎨 Graphic designer — Photoshop, Illustrator, Figma, Canva
-- 🌱 Currently exploring AI-powered application development
 
 <br/>
 
 ## 🧠 Skills
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**Languages & Web**
-```
-JavaScript   ████████████████░░░░  80%
-React        ████████████████░░░░  80%
-HTML / CSS   ██████████████████░░  90%
-PHP          ██████████████░░░░░░  70%
-Python       ██████████████░░░░░░  70%
-Java         ████████████░░░░░░░░  60%
-C++          ████████████░░░░░░░░  60%
-Kotlin       ██████████░░░░░░░░░░  50%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Databases, Tools & Design**
-```
-SQL / DBMS   ████████████████░░░░  80%
-Git & GitHub ████████████████░░░░  80%
-Node.js      ████████████░░░░░░░░  60%
-TypeScript   ████████████░░░░░░░░  60%
-Figma        ████████████████░░░░  80%
-Canva        ██████████████████░░  90%
-Photoshop    ██████████████░░░░░░  70%
-Illustrator  ████████████░░░░░░░░  60%
-```
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,php,python,java,cpp,kotlin,mysql,git,github,nodejs,ts,figma,photoshop,illustrator" />
+**Languages & Web**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-80%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-70%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-60%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-50%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Databases, Tools & Design**
+
+![SQL](https://img.shields.io/badge/SQL/DBMS-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20&%20GitHub-80%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-60%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-60%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-80%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-90%25-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-70%25-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-60%25-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 </div>
 
@@ -90,7 +72,7 @@ Illustrator  ████████████░░░░░░░░  60%
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Industry Partner Dashboard
+### 🏭 ORIC Industrial Dashboard
 Dashboard built for MUET's industry outreach — dark UI, live stats cards, collaboration request workflow, and a connected feedback form for real partner data.
 
 `React` `LocalStorage` `Formspree`
@@ -98,28 +80,28 @@ Dashboard built for MUET's industry outreach — dark UI, live stats cards, coll
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Secure Login Portal
-Glassmorphism-styled auth system with email domain validation, lockout-timer security, and role-based routing.
+### 🐝 BuzzHub Society
+A community/society platform project.
 
-`React` `Auth Logic` `UI Design`
+`React`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📋 Lost & Found Platform
-End-to-end platform built on a **PHP backend with a fully normalized SQL database**, applying core DBMS concepts — schema design, relationships, and query logic.
+### 🌡️ Heat Equity Mapper
+Compares hyperlocal temperature data across neighborhoods to highlight heat exposure inequality, with AI-generated recommendations for shade, trees, and cooling centers.
 
-`PHP` `SQL` `DBMS`
+`Python` `AI` `Data Visualization`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Customer Segmentation
-RFM analysis + K-Means clustering to segment customers by purchase behavior, backed by a SQLite database.
+### 🛡️ PocketShield
+AI-powered emergency safety app — see Featured Project above.
 
-`Python` `SQLite` `K-Means`
+`React Native` `AI` `Motion Sensors`
 
 </td>
 </tr>
@@ -151,14 +133,6 @@ RFM analysis + K-Means clustering to segment customers by purchase behavior, bac
 </picture>
 
 </div>
-
-<br/>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diya-Kumari978&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 <br/>
 
