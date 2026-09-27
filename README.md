@@ -11,24 +11,13 @@
 ![Location](https://img.shields.io/badge/Location-Pakistan-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Student](https://img.shields.io/badge/Computer%20Systems%20Engineering-MUET-8b5cf6?style=for-the-badge&logo=studyverse&logoColor=white)
 
-<br/>
-
-<a href="https://www.linkedin.com/in/diya-kumari712/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:diyakumari712@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Diya-Kumari978"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Diya-Kumari978&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Diya-Kumari978?style=for-the-badge&color=a855f7&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/Diya-Kumari978?style=for-the-badge&color=c084fc&label=STARS&logo=github)
-
 </div>
 
 <br/>
 
 ## 🪐 About Me
 
+> [!NOTE]
 > I'm a Computer Systems Engineering student who enjoys turning ideas into practical, real-world projects. I like building projects that have a clear purpose and solve real problems. I'm particularly interested in robotics, understanding how systems work at their core, and connecting logic with real-world implementation. I'm always looking to learn new technologies, improve my skills, and contribute to meaningful projects.
 
 **🎯 Open To:** Internships · Freelance Projects · Collaborative Open Source Work · Full-Stack & Cloud Roles
@@ -118,24 +107,23 @@ Built a real-time heat equity mapper comparing hyperlocal temperature data acros
 
 ## 💼 Experience
 
-**Web Development Intern** — ORIC MUET
-Worked on a real-world industrial collaboration portal for ORIC MUET. Built an industrial dashboard with login authentication, user dashboard, and password management features. This experience gave me hands-on exposure to working on a real organizational project.
+> [!IMPORTANT]
+> **Web Development Intern — ORIC MUET**
+> Worked on a real-world industrial collaboration portal for ORIC MUET. Built an industrial dashboard with login authentication, user dashboard, and password management features. This experience gave me hands-on exposure to working on a real organizational project.
+>
+> `React` `Authentication` `Dashboard Design`
 
-`React` `Authentication` `Dashboard Design`
+> [!TIP]
+> **Web Development Training — PITP**
+> Completed practical web development training using HTML, CSS, JavaScript, and Bootstrap. Built projects such as Uzz Hub Society and StyleZone to strengthen my frontend development and JavaScript skills.
+>
+> `HTML` `CSS` `JavaScript` `Bootstrap`
 
-<br/>
-
-**Web Development Training** — PITP
-Completed practical web development training using HTML, CSS, JavaScript, and Bootstrap. Built projects such as Uzz Hub Society and StyleZone to strengthen my frontend development and JavaScript skills.
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-<br/>
-
-**Graphic Designing Intern** — Developers Hub Corporation
-Completed a graphic design internship focused on visual design and branding work.
-
-`Canva` `Adobe Illustrator` `Visual Design`
+> [!CAUTION]
+> **Graphic Designing Intern — Developers Hub Corporation**
+> Completed a graphic design internship focused on visual design and branding work.
+>
+> `Canva` `Adobe Illustrator` `Visual Design`
 
 <br/>
 
@@ -151,33 +139,6 @@ Current Focus:
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Diya-Kumari978&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya-Kumari978&theme=radical&hide_border=true&background=0d0221&stroke=a855f7&ring=8b5cf6&fire=c084fc&currStreakLabel=e9d5ff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Kumari978&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=a855f7&text_color=e9d5ff" width="48%" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Diya-Kumari978&theme=radical&no-frame=true&margin-w=8&row=1" />
-
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diya-Kumari978&theme=redical&hide_border=true&bg_color=0d0221&color=c084fc&line=8b5cf6&point=e9d5ff" width="90%" />
-
-</div>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -188,21 +149,15 @@ Current Focus:
 
 <br/>
 
-## 📫 Connect With Me
-
 <div align="center">
 
-<a href="mailto:diyakumari712@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+> [!NOTE]
+> *"Turning ideas into real, working systems, one project at a time."*
+
 <a href="https://www.linkedin.com/in/diya-kumari712/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Diya-Kumari978"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Turning ideas into real, working systems — one project at a time."*
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0b2e&height=120&section=footer" />
 
