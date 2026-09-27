@@ -1,32 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Hey%20I%20Am%20Diya!&fontSize=48&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Cloud%20Engineering%20%7C%20Data%20Analytics&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Diya&fontSize=46&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=17&descAlign=50" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Cloud+Engineering+Enthusiast;Data+Analytics+%26+Insights;Building+Real-World+Solutions&font=Fira+Code&center=true&width=520&height=45&duration=3000&pause=800&color=A855F7&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+practical%2C+real-world+projects;Computer+Systems+Engineering+student;Learning+by+building&font=Fira+Code&center=true&width=480&height=40&duration=3200&pause=900&color=2563EB&vCenter=true&size=18" alt="typing" />
 </a>
-
-<br/>
-
-![Location](https://img.shields.io/badge/Location-Pakistan-6d28d9?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Student](https://img.shields.io/badge/Computer%20Systems%20Engineering-MUET-8b5cf6?style=for-the-badge&logo=studyverse&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🪐 About Me
+## About
 
-> [!NOTE]
-> I'm a Computer Systems Engineering student who enjoys turning ideas into practical, real-world projects. I like building projects that have a clear purpose and solve real problems. I'm particularly interested in robotics, understanding how systems work at their core, and connecting logic with real-world implementation. I'm always looking to learn new technologies, improve my skills, and contribute to meaningful projects.
-
-**🎯 Open To:** Internships · Freelance Projects · Collaborative Open Source Work · Full-Stack & Cloud Roles
-
-<br/>
-
-## ⚙️ Tech Stack
+I'm a Computer Systems Engineering student who enjoys turning ideas into practical, real-world projects. I like building things that have a clear purpose and solve real problems. I'm particularly interested in robotics, understanding how systems work at their core, and connecting logic with real-world implementation. I'm always looking to learn new technologies, improve my skills, and contribute to meaningful projects.
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Robotics;Systems+Thinking;Practical+Problem-Solving&font=Fira+Code&center=true&width=380&height=32&duration=2600&pause=700&color=60A5FA&vCenter=true&size=14" alt="focus areas" />
+</div>
+
+---
+
+## Tech Stack
 
 **Languages**
 
@@ -40,125 +34,79 @@
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,sqlite,postgres&theme=dark" />
 
-**Cloud, DevOps & Tooling**
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,illustrator,canva&theme=dark" />
 
-</div>
+---
 
-<br/>
-
-## 🚀 Featured Projects
-
-<details>
-<summary><b>🛡️ PocketShield — Emergency Safety App</b></summary>
-<br/>
-
-Built a mobile safety app prototype for silently triggering an emergency alert when a person can't talk or call for help.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Expo, React Native, TypeScript, MediaPipe, TensorFlow.js |
-| **Scale** | 6-person hackathon team build |
-| **Performance** | Real-time shake & gesture detection with low-latency trigger response |
-| **Security** | Silent, screen-invisible alert flow — no visible UI change on trigger |
-| **Impact** | Multi-trigger personal safety net (motion + gesture) with live location sharing |
-| **Repository** | *(link coming soon)* |
-
-Implemented shake detection, hand gesture recognition using MediaPipe and TensorFlow.js, location-based alerts, SMS/WhatsApp sharing, and short video recording — all designed to work silently in the background during an emergency.
-
-</details>
-
-<details>
-<summary><b>📚 Lost & Found Portal — DBMS Project</b></summary>
-<br/>
-
-Built a Lost & Found management system using core DBMS concepts including database design, relationships, SQL, normalization, and data management, with a web interface for users.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | SQL, Database Design, Web Interface |
-| **Scale** | Full DBMS coursework project |
-| **Performance** | Normalized schema for efficient querying |
-| **Security** | Structured relational integrity via normalization |
-| **Impact** | Practical application of database theory to a real-world use case |
-| **Repository** | *(link coming soon)* |
-
-</details>
-
-<details>
-<summary><b>🌡️ Heat Equity Mapper — FortyGuard Hackathon '26</b></summary>
-<br/>
-
-Built a real-time heat equity mapper comparing hyperlocal temperature data across Los Angeles neighborhoods, focusing on location-based data and visualization.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | Python, Flask, FortyGuard Temperature API, Data Visualization |
-| **Scale** | 4 LA neighborhoods compared in parallel, real-time |
-| **Performance** | Live API calls with real-time risk-score ranking |
-| **Security** | N/A — public environmental data |
-| **Impact** | Surfaces heat exposure inequality with AI-generated cooling recommendations |
-| **Repository** | *(link coming soon)* |
-
-</details>
-
-<br/>
-
-## 💼 Experience
-
-> [!IMPORTANT]
-> **Web Development Intern — ORIC MUET**
-> Worked on a real-world industrial collaboration portal for ORIC MUET. Built an industrial dashboard with login authentication, user dashboard, and password management features. This experience gave me hands-on exposure to working on a real organizational project.
->
-> `React` `Authentication` `Dashboard Design`
-
-> [!TIP]
-> **Web Development Training — PITP**
-> Completed practical web development training using HTML, CSS, JavaScript, and Bootstrap. Built projects such as Uzz Hub Society and StyleZone to strengthen my frontend development and JavaScript skills.
->
-> `HTML` `CSS` `JavaScript` `Bootstrap`
-
-> [!CAUTION]
-> **Graphic Designing Intern — Developers Hub Corporation**
-> Completed a graphic design internship focused on visual design and branding work.
->
-> `Canva` `Adobe Illustrator` `Visual Design`
-
-<br/>
-
-## 🔥 Current Focus
-
-```yaml
-Current Focus:
-  - Full-Stack & Mobile Development
-  - AI/ML & Real-World Applications
-  - Robotics & System Development
-  - Backend Development
-```
-
-<br/>
-
-## 🐍 Contribution Snake
+## Featured Projects
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Diya-Kumari978/Diya-Kumari978/output/github-contribution-grid-snake.svg" width="90%" />
-
+<img src="https://readme-typing-svg.demolab.com/?lines=PocketShield;Lost+%26+Found+Portal;Heat+Equity+Mapper&font=Fira+Code&center=true&width=380&height=32&duration=2400&pause=800&color=2563EB&vCenter=true&size=16" alt="project names" />
 </div>
+
+### PocketShield
+
+An emergency safety app prototype built with Expo, React Native, and TypeScript. It detects a shake or a hand gesture (using MediaPipe Hands and TensorFlow.js) and prepares an alert with location, a short video clip, and pre-set contact and gesture preferences, which the user then confirms sending via SMS or WhatsApp.
+
+**Stack:** Expo · React Native · TypeScript · MediaPipe · TensorFlow.js
+
+<br/>
+
+### Lost & Found Portal
+
+A Lost & Found management system built as a DBMS project, covering database design, table relationships, SQL, and normalization, with a web interface for users to report and search items.
+
+**Stack:** SQL · Database Design · Web Interface
+
+<br/>
+
+### Heat Equity Mapper — FortyGuard Hackathon '26
+
+A real-time heat equity mapper comparing hyperlocal temperature data across Los Angeles neighborhoods to visualize differences in heat exposure.
+
+**Stack:** Python · Flask · FortyGuard Temperature API
+
+---
+
+## Experience
+
+**ORIC MUET — Web Development Intern**
+Worked on a real-world industrial collaboration portal for ORIC MUET. Built an industrial dashboard with login authentication, a user dashboard, and password management settings.
+
+<br/>
+
+**PITP — Web Development Training**
+Completed practical web development training in HTML, CSS, JavaScript, and Bootstrap. Built projects including Uzz Hub Society and StyleZone.
+
+<br/>
+
+**Developers Hub Corporation — Graphic Design Intern**
+Completed a graphic design internship focused on visual design and branding work using Canva and Adobe Illustrator.
+
+---
+
+## Current Focus
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+Mobile+Development;AI%2FML+%26+Real-World+Applications;Robotics+%26+System+Development;Backend+Development&font=Fira+Code&center=true&width=480&height=32&duration=2800&pause=800&color=60A5FA&vCenter=true&size=16" alt="current focus" />
+</div>
+
+---
+
+## Contact
+
+[GitHub](https://github.com/Diya-Kumari978) · [LinkedIn](https://www.linkedin.com/in/diya-kumari712/) · [Email](mailto:diyakumari712@gmail.com)
 
 <br/>
 
 <div align="center">
 
-> [!NOTE]
-> *"Turning ideas into real, working systems, one project at a time."*
+<img src="https://raw.githubusercontent.com/Diya-Kumari978/Diya-Kumari978/output/github-contribution-grid-snake.svg" width="80%" alt="contribution snake" />
 
-<a href="https://www.linkedin.com/in/diya-kumari712/"><img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Diya-Kumari978"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0b2e&height=120&section=footer" />
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" />
 </div>
