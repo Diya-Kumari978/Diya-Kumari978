@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Hey%20I%20Am%20Diya!&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=16" alt="Hey I Am Diya!" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Web+Developer;Cloud+Engineering;Data+Analytics;&font=Fira+Code&center=true&width=340&height=40&duration=2800&pause=800&color=60A5FA&vCenter=true&size=16" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineering;Full-Stack+Web+Developer;Python+Developer;Data+Analytics;Graphic+ Designer&font=Fira+Code&center=true&width=340&height=40&duration=2800&pause=800&color=60A5FA&vCenter=true&size=16" alt="Roles" />
 
 <br/>
 
@@ -58,7 +58,8 @@ An emergency safety app prototype built with Expo, React Native, and TypeScript.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=110&text=Lost%20and%20Found%20Portal&fontSize=28&fontColor=e2e8f0&animation=scaleIn&fontAlignY=42&desc=DBMS%20project&descSize=14&descAlignY=70&descAlign=50" alt="Lost and Found Portal" />
 </div>
 
-A Lost & Found management system built as a DBMS project. It covers database design, relationships, SQL, normalization, and data management, with a web interface for users.
+A Lost & Found management system built as a DBMS project to help users report and manage lost and found items. The project focuses on database design, relationships, SQL, normalization, and data management, with a web interface for users.
+
 
 <img src="https://skillicons.dev/icons?i=mysql,html,css,js&theme=dark" alt="Lost and Found stack" />
 
@@ -68,7 +69,8 @@ A Lost & Found management system built as a DBMS project. It covers database des
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=110&text=Heat%20Equity%20Mapper&fontSize=28&fontColor=e2e8f0&animation=scaleIn&fontAlignY=42&desc=FortyGuard%20Hackathon%20'26&descSize=14&descAlignY=70&descAlign=50" alt="Heat Equity Mapper" />
 </div>
 
-A real-time heat equity mapper that compares hyperlocal temperature data across Los Angeles neighborhoods, focusing on location-based data and visualization.
+A real-time heat equity mapper built for the FortyGuard Hackathon ’26. It compares hyperlocal temperature data across Los Angeles neighborhoods and visualizes differences in heat exposure using location-based data.
+
 
 <img src="https://skillicons.dev/icons?i=py,flask,html,js&theme=dark" alt="Heat Equity Mapper stack" />
 
