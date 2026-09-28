@@ -2,8 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Hey%20I%20Am%20Diya!&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=16" alt="Hey I Am Diya!" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineering;Full-Stack+Web+Developer;Python+Developer;Data+Analytics;Graphic+ Designer&font=Fira+Code&center=true&width=340&height=40&duration=2800&pause=800&color=60A5FA&vCenter=true&size=16" alt="Roles" />
-
+<img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Engineering;Full-Stack+Web+Developer;Python+Developer;Data+Analytics;Graphic+Designer&font=Fira+Code&center=true&width=340&height=40&duration=2800&pause=800&color=60A5FA&vCenter=true&size=16" alt="Roles" />
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Pakistan-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pakistan" />
